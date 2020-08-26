@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work as RTL development engineer in Verilog. But I have interested towards APIs, Google apps Script and WebApp development
+
 <!--
 **eayanar/eayanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
