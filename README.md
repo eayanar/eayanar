@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-leave.I work as RTL development engineer in Verilog. But I have interested towards APIs, Google apps Script and WebApp development
+I work as RTL development engineer in Verilog. But I have interested towards APIs, Google apps Script and WebApp development.SVN and git are new things i am learning
 
 <!--
 **eayanar/eayanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
